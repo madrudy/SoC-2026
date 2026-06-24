@@ -110,8 +110,6 @@ to study the impact of KL regularization on reconstruction quality and latent-sp
 ---
 
 
----
-
 ## Repository Structure
 
 ```text
@@ -122,17 +120,4 @@ to study the impact of KL regularization on reconstruction quality and latent-sp
 └── README.md
 ```
 
----
 
-
----
-
-
-
----
-
-## Author
-
-Rudra Bhor
-B.Tech Mechanical Engineering
-Indian Institute of Technology Bombay
