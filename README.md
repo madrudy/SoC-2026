@@ -106,24 +106,9 @@ Comparison of:
 
 to study the impact of KL regularization on reconstruction quality and latent-space organization.
 
-### Key Learning Outcomes
-
-* Learned why convolutions are preferred for image data
-* Explored structured latent representations
-* Investigated the effect of KL weighting on generation quality
-* Developed intuition for balancing reconstruction and regularization
 
 ---
 
-## Technologies Used
-
-* Python
-* PyTorch
-* NumPy
-* Matplotlib
-* Scikit-Learn
-* Jupyter Notebook
-* Google Colab
 
 ---
 
@@ -139,25 +124,10 @@ to study the impact of KL regularization on reconstruction quality and latent-sp
 
 ---
 
-## Progress Summary
-
-| Week   | Topic                        | Status    |
-| ------ | ---------------------------- | --------- |
-| Week 2 | VAE Mathematics & ELBO       | Completed |
-| Week 3 | Linear VAE on Synthetic Data | Completed |
-| Week 4 | Convolutional VAE on MNIST   | Completed |
 
 ---
 
-## Future Work
 
-The second half of the project will focus on:
-
-* Training VAEs on larger image datasets
-* Latent-space manipulation and traversal
-* Understanding diffusion models
-* Implementing denoising objectives
-* Building complete diffusion-based generative pipelines
 
 ---
 
